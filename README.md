@@ -1,4 +1,4 @@
-# Desarrollo Web - Gestión de Processes
+# Desarrollo Web 
 
 Este proyecto es una aplicación de backend en **Spring Boot** que permite gestionar **Processes**, **Activities** y **Edges**.  
 Proporciona operaciones **CRUD** y una API **RESTful** para interactuar con la base de datos **MySQL**.
